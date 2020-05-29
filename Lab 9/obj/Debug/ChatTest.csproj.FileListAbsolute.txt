@@ -1,0 +1,33 @@
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\ChatTest.csproj.GenerateResource.cache
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.exe
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.exe.config
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.exe
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.ThreadConstr.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\ChatTest.csprojAssemblyReference.cache
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Forms.SetTime.resources
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\bin\Debug\XMLGUI.exe.config
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\bin\Debug\XMLGUI.exe
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\bin\Debug\XMLGUI.pdb
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\ChatTest.csprojAssemblyReference.cache
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.Forms.SetTime.resources
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.ThreadConstr.resources
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\ChatTest.csproj.GenerateResource.cache
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.exe
+E:\Lab9_Threads-zyamzina\Lab9_Threads-master\XMLGUI\obj\Debug\XMLGUI.pdb
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.exe.config
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.exe
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.pdb
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\ChatTest.csprojAssemblyReference.cache
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Forms.SetTime.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.ThreadConstr.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\ChatTest.csproj.GenerateResource.cache
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.exe
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.pdb

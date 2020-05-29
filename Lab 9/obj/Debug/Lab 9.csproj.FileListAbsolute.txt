@@ -1,0 +1,22 @@
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.exe.config
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.exe
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\bin\Debug\XMLGUI.pdb
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\Lab 9.csprojAssemblyReference.cache
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Forms.SetTime.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.ThreadConstr.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\Lab 9.csproj.GenerateResource.cache
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.exe
+E:\Lab9 Kotlyakov\Lab9 Kotlyakov\Lab 9\obj\Debug\XMLGUI.pdb
+E:\labs c# 6 семестр\Lab 9\bin\Debug\XMLGUI.exe.config
+E:\labs c# 6 семестр\Lab 9\bin\Debug\XMLGUI.exe
+E:\labs c# 6 семестр\Lab 9\bin\Debug\XMLGUI.pdb
+E:\labs c# 6 семестр\Lab 9\obj\Debug\Lab 9.csprojAssemblyReference.cache
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.Forms.SetTime.resources
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.ThreadConstr.resources
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.Properties.Resources.resources
+E:\labs c# 6 семестр\Lab 9\obj\Debug\Lab 9.csproj.GenerateResource.cache
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.exe
+E:\labs c# 6 семестр\Lab 9\obj\Debug\XMLGUI.pdb
